@@ -3,7 +3,7 @@ A stock tracker tracking stock price everyday and output to Excel, built using P
 
 
 ### Technologies 
-Python
-IEX APIs
-AWS EC2
-AWS S3
+* Python
+* IEX APIs
+* AWS EC2
+* AWS S3
